@@ -17,7 +17,7 @@
     ```bash
     nmap -sP [IP]/[máscara]
     ```
-- ![Nmap]([(https://cdn.discordapp.com/attachments/1314063319920803901/1314065324131221514/image.png?ex=67526a33&is=675118b3&hm=6ec04383ca1502eda50d5f48d53fc73143b7dbe912de4e5bb179263ccdca0a92&)])  <!-- Substitua pelo link da imagem do Nmap -->
+- ![Nmap](https://cdn.discordapp.com/attachments/1314063319920803901/1314065324131221514/image.png?ex=67526a33&is=675118b3&hm=6ec04383ca1502eda50d5f48d53fc73143b7dbe912de4e5bb179263ccdca0a92&)  <!-- Substitua pelo link da imagem do Nmap -->
 
 ## 2. Wireshark 🐋
 - **Descrição**: Wireshark é um analisador de pacotes que permite capturar e examinar o tráfego de rede.
