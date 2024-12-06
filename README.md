@@ -4,10 +4,15 @@
 ___
 # Cursos Gratuitos Para Develops 📦
 >📍< • 📑 LINGUAGENS DE PROG.
+
 >📍< • 📂 PACOTES DE PROGRAMAS
+
 >📍< • 📱 APPS/APKS PRIVADOS
+
 >📍< • 🌐 SITES E APIS FAMOSAS
+
 >📍< • 🏦 BANCO DE DADOS PRONTOS
+
 >📍< • 🗽 VAGAS DE EMPREGO
 
 
