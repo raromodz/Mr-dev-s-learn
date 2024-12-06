@@ -2,18 +2,17 @@
 > By Raro modz For Develops
 
 ___
-# Curso de Segurança Cibernética 🔒
+# Cursos Gratuitos Para Develops 📦
+>📍< • 📑 LINGUAGENS DE PROG.
+>📍< • 📂 PACOTES DE PROGRAMAS
+>📍< • 📱 APPS/APKS PRIVADOS
+>📍< • 🌐 SITES E APIS FAMOSAS
+>📍< • 🏦 BANCO DE DADOS PRONTOS
+>📍< • 🗽 VAGAS DE EMPREGO
+
+
+
 [![Clique aqui](https://dummyimage.com/800x400/000/fff&text=Clique+aqui)](https://www.exemplo.com)
-## Descrição do Curso 📚
-Este curso oferece uma introdução abrangente à segurança cibernética, abordando conceitos fundamentais, ameaças comuns e melhores práticas para proteger sistemas e dados. 🌐✨
-
-![Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Segurança+Cibernética)
-
-## Objetivos do Curso 🎯
-- Compreender os princípios básicos da segurança cibernética. 📖
-- Identificar e analisar ameaças cibernéticas. 🔍
-- Implementar medidas de segurança eficazes. 🛡️
-- Desenvolver uma mentalidade de segurança em ambientes digitais. 💡
 
 ## Público-Alvo 👥
 - Profissionais de TI 💻
