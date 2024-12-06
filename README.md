@@ -3,7 +3,7 @@
 
 ___
 # Curso de Segurança Cibernética 🔒
-
+[![Clique aqui](https://dummyimage.com/150x50/000/fff&text=Clique+aqui)](https://www.exemplo.com)
 ## Descrição do Curso 📚
 Este curso oferece uma introdução abrangente à segurança cibernética, abordando conceitos fundamentais, ameaças comuns e melhores práticas para proteger sistemas e dados. 🌐✨
 
