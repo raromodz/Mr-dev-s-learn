@@ -83,55 +83,8 @@ Para se inscrever, visite [nosso site](https://www.exemplo.com) ou entre em cont
 
 **Nota:** Este curso é destinado a iniciantes e não requer conhecimentos prévios em segurança cibernética. 🚀
 
-# Curso de Segurança Cibernética 🔒
 
-## Módulo 1: Introdução à Segurança Cibernética 🛡️
-
-### 1.1 O que é Segurança Cibernética? ❓
-A segurança cibernética refere-se ao conjunto de práticas, tecnologias e processos projetados para proteger sistemas, redes e dados de ataques, danos ou acesso não autorizado. Com o aumento da digitalização, a segurança cibernética tornou-se uma prioridade para indivíduos e organizações. 🌐
-
-![O que é Segurança Cibernética?](https://via.placeholder.com/800x400.png?text=O+que+%C3%A9+Seguran%C3%A7a+Cibern%C3%A9tica%3F)
-
-### 1.2 Importância da Segurança Cibernética 🔑 A segurança cibernética é crucial para proteger informações sensíveis e garantir a integridade dos sistemas. Com o aumento das ameaças digitais, como ataques de ransomware e phishing, a implementação de medidas de segurança eficazes é essencial para prevenir perdas financeiras e danos à reputação. Além disso, a conformidade com regulamentações de proteção de dados, como GDPR e LGPD, é fundamental para evitar penalidades legais e garantir a confiança dos clientes. 
-
-![Importância da Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Import%C3%A2ncia+da+Seguran%C3%A7a+Cibern%C3%A9tica)
-
-### 1.3 Principais Conceitos e Terminologias 📜
-- **Malware**: Software malicioso projetado para causar danos a sistemas ou roubar informações.
-- **Phishing**: Técnica de fraude online que tenta enganar usuários para que revelem informações pessoais.
-- **Firewall**: Dispositivo ou software que controla o tráfego de rede, bloqueando acessos não autorizados.
-
-![Conceitos de Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Conceitos+de+Seguran%C3%A7a+Cibern%C3%A9tica)
-
-### 1.4 Como Proteger Seus Dados 🔒
-- **Use senhas fortes**: Combine letras, números e caracteres especiais.
-- **Atualize regularmente**: Mantenha sistemas e softwares atualizados para corrigir vulnerabilidades.
-- **Eduque-se sobre segurança**: Esteja ciente das últimas ameaças e técnicas de proteção.
-
-![Protegendo Seus Dados](https://via.placeholder.com/800x400.png?text=Protegendo+Seus+Dados)
-
-## Conclusão
-A segurança cibernética é uma responsabilidade compartilhada que requer a colaboração de todos os usuários. Ao adotar boas práticas e estar sempre informado sobre as ameaças, é possível criar um ambiente digital mais seguro para todos. ```markdown
-## Recursos Adicionais 📚
-- **Livros Recomendados**: 
-  - "Segurança Cibernética para Iniciantes" - Um guia prático para entender os conceitos básicos.
-  - "Hacking Ético" - Aprenda sobre as técnicas usadas por hackers para proteger sistemas.
-
-![Livros de Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Livros+de+Seguran%C3%A7a+Cibern%C3%A9tica)
-
-- **Cursos Online**: 
-  - [Coursera: Segurança Cibernética](https://www.coursera.org)
-  - [Udemy: Hacking Ético](https://www.udemy.com)
-
-![Cursos Online](https://via.placeholder.com/800x400.png?text=Cursos+Online)
-
-- **Comunidades e Fóruns**: 
-  - Participe de grupos no LinkedIn e fóruns como Reddit para discutir e aprender mais sobre segurança cibernética.
-
-![Comunidades de Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Comunidades+de+Seguran%C3%A7a+Cibern%C3%A9tica)
-
-## Eventos e Conferências 🌍
-- **Conferência de Segurança Cibernética**: Participe de eventos anuais para se atualizar sobre as últimas tendências e tecnologias.
+ de eventos anuais para se atualizar sobre as últimas tendências e tecnologias.
 - **Webinars**: Inscreva-se em webinars gratuitos para aprender com especialistas da indústria.
 
 ![Eventos de Segurança Cibernética](https://via.placeholder.com/800x400.png?text=Eventos+de+Seguran%C3%A7a+Cibern%C3%A9tica)
@@ -223,15 +176,3 @@ Para se inscrever, visite [nosso site](https://www.exemplo.com) ou entre em cont
 ---
 
 **Nota:** Este curso é destinado a iniciantes e não requer conhecimentos prévios em segurança cibernética. 🚀
-
-# Curso de Segurança Cibernética 🔒
-
-## Módulo 1: Introdução à Segurança Cibernética 🛡️
-
-### 1.1 O que é Segurança Cibernética? ❓
-A segurança cibernética refere-se ao conjunto de práticas, tecnologias e processos projetados para proteger sistemas, redes e dados de ataques, danos ou acesso não autorizado. Com o aumento da digitalização, a segurança cibernética tornou-se uma prioridade para indivíduos e organizações. 🌐
-
-![O que é Segurança Cibernética?](https://via.placeholder.com/800x400.png?text=O+que+%C3%A9+Seguran%C3%A7a+Cibern%C3%A9tica%3F)
-
-### 1.2 Importância da Segurança Cibernética 🔑
-A segurança cibernética é crucial para proteger informações sensíveis e garantir a integridade dos sistemas. Com o
