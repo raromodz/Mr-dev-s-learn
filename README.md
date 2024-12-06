@@ -31,9 +31,10 @@ ___
 Para se inscrever, visite [nosso site](https://www.exemplo.com) ou entre em contato pelo e-mail: contato@exemplo.com. 📧
 
 ## Contato 📞
-- **Instrutor:** João Silva 👨‍🏫
-- **E-mail:** joao.silva@exemplo.com 📧
-- **Telefone:** (11) 1234-5678 📞
+- **Instrutor:** raro modz 👨‍🏫
+- **E-mail:** guestmaker99@gmail.com 📧
+- **discord:**  raro.modz 📞
+- **instagram:**  @raro.modz 📸
 
 ---
 
